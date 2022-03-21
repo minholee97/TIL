@@ -3,7 +3,7 @@
 > Longest Common Substring vs Longest Common Subsequence
 
 - 두 수열(문자열)중 가장 길고 공통된 부분을 찾는 알고리즘
-- Substring는 문자들이 연속되어야 하는 경우에 사용하고 Subsequence는 문자들이 연속되지 않아도 되는 경우에 사용함.
+- Substring는 문자들이 반드시 연속되어야 하는 경우에 사용하고 Subsequence는 문자들이 연속되지 않아도 되는 경우에 사용함.
 
 ### **1**. LCS (Longest Common Substring) 최장 공통 부분 문자열
 - 두 문자열이 공통적으로 가진 부분 문자열 중 가장 긴 부분 문자열
